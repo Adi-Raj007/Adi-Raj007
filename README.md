@@ -18,14 +18,6 @@ I'm a final-year Computer Science Engineering student, a data scientist, prompt 
 - 🤖 Developed predictive models and collaborated on data-driven strategies.
 - 🎯 Presented insights to senior management for decision-making.
 
-### Prompt Engineering Intern at Doozy Infotech
-- 🧠 Created and fine-tuned language models.
-- 💬 Developed chatbots and improved conversational AI systems.
-
-### Machine Learning Engineer at Doozy Infotech
-- 🏗️ Designed and deployed machine learning models.
-- 📈 Worked on deep learning applications and recommendation systems.
-
 ## 🛠️ Projects
 
 ### **Titanic Survival Prediction**
