@@ -1,90 +1,145 @@
-# Hi, I'm Aditya Raj 👋
+# 👋 Hi, I'm Aditya Raj
 
-I'm a final-year Computer Science Engineering student, a data scientist, prompt engineer, and machine learning enthusiast. My focus lies in leveraging data-driven insights, machine learning, and natural language processing to solve real-world problems. I thrive on building impactful projects that bridge the gap between complex algorithms and practical applications.
+🎓 Final-year **Computer Science Engineering** student  
+🧠 Specializing in **Data Science**, **Prompt Engineering**, and **Machine Learning**  
+🚀 Passionate about building intelligent systems that transform data into actionable insights.  
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adi-Raj007&color=blueviolet)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-ab7b06250/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=white)](https://github.com/Adi-Raj007)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-raj-ab7b06250/)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=flat&logo=github)](https://github.com/Adi-Raj007)
+
+---
 
 ## 🔥 Experience
 
-### Data Science Intern at LetsGrowMore
-- Conducted credit score classification using training and testing datasets.
-- Preprocessed and cleaned data in Google Sheets.
-- Built predictive models from scratch to classify credit scores.
+### 🧩 **Data Analyst Intern** – *Surepass Technologies*
+- Automated multi-source API data collection and formatting.
+- Built reliable data pipelines with 100% compliance to specifications.
 
-### Data Science Intern at COSTYLEE APPARELS
-- 📊 Analyzed customer data to optimize inventory and forecast demand.
-- 🤖 Developed predictive models and collaborated on data-driven strategies.
-- 🎯 Presented insights to senior management for decision-making.
+### 📊 **Data Science Intern** – *LetsGrowMore*
+- Built credit score classification models from scratch.
+- Preprocessed datasets in Google Sheets and created predictive pipelines.
 
-## 🛠️ Projects
+### 🛍️ **Data Science Intern** – *COSTYLEE APPARELS*
+- Analyzed customer behavior to optimize inventory.
+- Used forecasting models to assist in strategic planning.
 
-### **Titanic Survival Prediction**
-- Built a machine learning model using Python and Scikit-learn to predict survival rates of Titanic passengers.
-- Employed feature engineering and model tuning to improve prediction accuracy.
+---
 
-### **Movie Recommendation System**
-- Created a collaborative filtering-based recommendation system in Python.
-- Integrated the system into a Flask web application.
+## 🚀 Projects
 
-### **Stock Price Prediction**
-- Developed an LSTM-based time-series forecasting model in TensorFlow.
-- Real-time deployment to predict stock prices.
+### 🌍 [Smart Travel Planner](https://github.com/Adi-Raj007/smart-travel-planner)
+- AI-powered itinerary generator using **LangChain**, **FastAPI**, and **LLaMA3**.
+- Real-time weather data via **OpenWeatherMap**, supports natural prompts.
 
-### **Custom IPL Database**
-- Designed an SQLite database for comprehensive IPL data storage from 2008-2022.
+### 🎥 [YouTube Transcript RAG Pipeline](https://github.com/Adi-Raj007/langchain)
+- Extracts transcripts → Embeds & indexes → Q&A over videos using RAG.
+- Built using **LangChain**, **FAISS**, and **streaming agents**.
 
-### **Flask API for IPL Data**
-- Built a RESTful API for accessing IPL data with multiple functionalities for secure integration with external services.
+### 🎯 [LangChain Prompt Engineering Toolkit](https://github.com/Adi-Raj007/Langchain)
+- Modular chains for **zero-shot**, **few-shot**, and **conversational agents**.
+- Includes prompt templates, agents, memory chains & more.
 
-### **Fully Functional Website**
-- Developed a website using Flask and JavaScript for:
-  - Converting JPG to PDF.
-  - Compressing and cropping photos.
+### 🧠 [IPL Winning Prediction Model](https://github.com/Adi-Raj007)
+- Predicts match winners using **Scikit-learn** and **TensorFlow**.
+- Achieved **75%+ accuracy** and deployed via REST API.
 
-### **IPL Winning Prediction Model**
-- Built a machine learning model using TensorFlow and Scikit-learn to predict IPL match outcomes.
-- Achieved over 75% accuracy and deployed the model as a RESTful API.
+### 🛳️ Titanic Survival Prediction
+- Classic ML project with feature engineering & survival prediction.
 
-### **Random Data Generator**
-- Developed a Python script to generate diverse datasets for testing and analysis purposes.
+### 🛠️ Random Data Generator
+- CLI tool to generate custom mock datasets for testing ML models.
 
-## 💼 Skills and Interests
-- **Programming Languages**: C, C++, Python, JavaScript.
-- **Libraries/Frameworks**: Flask, Django, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
-- **Data Engineering**: MongoDB, MySQL, SQLite.
-- **Web Development**: React.js, HTML, CSS, JavaScript, Node.js.
-- **Tools**: Git, Google Sheets, Latex.
-- **Specializations**: Machine Learning, Deep Learning, Natural Language Processing, Data Visualization, Model Deployment.
+---
+
+## 💼 Skills & Technologies
+
+### 👨‍💻 Programming  
+`Python` | `C/C++` | `JavaScript`
+
+### ⚙️ Frameworks & Libraries  
+`Flask` | `FastAPI` | `Django` | `LangChain` | `TensorFlow` | `Scikit-learn` | `Pandas` | `NumPy`
+
+### 📊 Data & Visualization  
+`Matplotlib` | `Seaborn` | `Google Sheets` | `Excel`
+
+### 🌐 Web Development  
+`HTML` | `CSS` | `React.js` | `Node.js`
+
+### 🛢️ Databases  
+`PostgreSQL` | `MongoDB` | `MySQL` | `SQLite`
+
+### 🧰 Tools & Platforms  
+`Git` | `Docker` | `VSCode` | `LaTeX`
+
+### 🧠 Domains  
+`Machine Learning` | `Deep Learning` | `NLP` | `Prompt Engineering` | `Data Pipelines`
+
+---
 
 ## 🏆 Achievements
-- **Department Representative** & Student Council Member at Central University of Haryana.
-- **CodeChef and LeetCode**: Solved over 190 programming challenges combined.
-- **Scholarship Recipient**: Awarded ONGC scholarship for academic excellence.
-- **Coursera Courses**: Completed courses on supervised learning and model evaluation techniques.
-- Winner of **Code Hack Feb’2023** organized by ByteCode Learners.
 
-## 🎨 Extracurricular Activities
-- Core member of **Advik (Tech Fest)** and **Spandan (Cultural Fest)** at CUH.
-- Organized department-level events including coding competitions.
-- Volunteered as a teacher for underprivileged students under NSS at CUH.
+- 🥇 **Winner**, Code Hack Feb’2023 – ByteCode Learners  
+- 💡 **190+ Problems Solved** on **LeetCode & CodeChef**  
+- 🎓 **ONGC Scholarship** for academic excellence  
+- 🗣️ **Department Representative** & **Student Council Member**, CUH  
+- 📜 Certified in **Supervised ML** and **Model Evaluation** from **Coursera**
+
+---
+
+## 🎨 Extracurriculars
+
+- 🎭 Core Member: **Advik (Tech Fest)** & **Spandan (Cultural Fest)**
+- 🧑‍🏫 Volunteered teaching underprivileged students through **NSS**
+- 💻 Organized and judged coding competitions
+
+---
 
 ## 🎓 Education
-- **B.Tech in Computer Science and Engineering**, Central University Of Haryana (CGPA: 7.6/10)
-- **XII, CBSE**, Gyan Bharti Residential Complex Bodhgaya (92.66%)
-- **X, CBSE**, Gyan Bharti Residential Complex Bodhgaya (84.4%)
 
-## 📫 Contact
-- **Email**: [subh7282@gmail.com](mailto:subh7282@gmail.com)
-- **GitHub**: [Adi-Raj007](https://github.com/Adi-Raj007)
-- **LinkedIn**: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-ab7b06250/)
+- **B.Tech in Computer Science Engineering**  
+  🏫 *Central University of Haryana* | CGPA: **7.6/10**
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adi-Raj007&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-Raj007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- **Class XII – CBSE**  
+  📍 *Gyan Bharti Residential Complex* | Score: **92.66%**
 
-### 🏄‍♂️ Featured Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Adi-Raj007&repo=jpg-to-pdf-flask-app&theme=radical)](https://github.com/Adi-Raj007/jpg-to-pdf-flask-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Adi-Raj007&repo=ipl-flask-api&theme=radical)](https://github.com/Adi-Raj007/ipl-flask-api)
+- **Class X – CBSE**  
+  📍 *Gyan Bharti Residential Complex* | Score: **84.4%**
 
-Feel free to explore my repositories and projects. Let's connect and collaborate!
+---
+
+## 📬 Contact Me
+
+📧 Email: [subh7282@gmail.com](mailto:subh7282@gmail.com)  
+🐙 GitHub: [Adi-Raj007](https://github.com/Adi-Raj007)  
+🔗 LinkedIn: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-ab7b06250/)
+
+---
+
+## 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adi-Raj007&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-Raj007&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi-Raj007&theme=react-dark&area=true&custom_title=Aditya%20Raj's%20Contribution%20Graph" />
+</p>
+
+---
+
+## 📌 Featured Repositories
+
+| Project | Description |
+|--------|-------------|
+| [**✈️ Smart Travel Planner**](https://github.com/Adi-Raj007/smart-travel-planner) | AI-powered itinerary generator using FastAPI, LangChain, and Groq LLaMA3 with weather integration. |
+| [**🧠 LangChain Playground**](https://github.com/Adi-Raj007/Langchain) | RAG pipelines, memory chains, agent templates, and prompt engineering tools using LangChain. |
+| [**🎥 YouTube RAG Pipeline**](https://github.com/Adi-Raj007/langchain) | RAG-based Q&A over YouTube video transcripts using LangChain and FAISS. |
+| [**📈 IPL Prediction Model**](https://github.com/Adi-Raj007) | ML + DL model using TensorFlow and Scikit-learn to predict IPL match outcomes. |
+
+---
+
+> 💬 *Feel free to explore my repositories, fork interesting projects, and reach out for collaborations or discussions!*
