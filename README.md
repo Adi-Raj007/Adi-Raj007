@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Raj
 
-🎓 Final-year **Computer Science Engineering** student  
+🎓 Graduated in  **Computer Science Engineering**  
 🧠 Specializing in **Data Science**, **Prompt Engineering**, and **Machine Learning**  
 🚀 Passionate about building intelligent systems that transform data into actionable insights.  
 
